@@ -1,11 +1,11 @@
 {
   "name": "nodebb-plugin-sso-imleagues",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "NodeBB IMLeaguse SSO",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xiaoxinw/nodebb-plugin-sso-imleagues"
+    "url": "https://github.com/clijiac/nodebb-plugin-sso-imleagues"
   },
   "keywords": [
     "nodebb",
@@ -18,12 +18,12 @@
     "registration"
   ],
   "author": {
-    "name": "junzhe",
-    "email": "xiaoxing0514@gmail.com"
+    "name": "jia",
+    "email": "clijiac@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xiaoxinw/nodebb-plugin-sso-imleagues/issues"
+    "url": "https://github.com/clijiac/nodebb-plugin-sso-imleagues/issues"
   },
   "readme": "",
   "readmeFilename": "README.md",
