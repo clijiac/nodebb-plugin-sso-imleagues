@@ -2,7 +2,7 @@
 	"id": "nodebb-plugin-sso-imleagues",
 	"name": "NodeBB IMLeagues SSO",
 	"description": "NodeBB Plugin that allows users to login/register via their IMLeagues account.",
-	"url": "https://github.com/xiaoxinw/nodebb-plugin-sso-imleagues",
+	"url": "https://github.com/clijiac/nodebb-plugin-sso-imleagues",
 	"library": "./library.js",
 	"hooks": [
         	{ "hook": "static:app.load", "method": "init" },
